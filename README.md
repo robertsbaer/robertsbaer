@@ -12,8 +12,8 @@
 - 🔭 I’m currently building **TattedMuse** – a hub for tattoo artists & enthusiasts.
 - 🌱 Diving deeper into **Three.js** & **Unreal Engine** for 3D and AR experiences.
 - 🛹 Planning a DC ➜ Point Roberts ⚡ **3,000-mile electric-skateboard** adventure.
-- 🍷 Spent **5 years in Burgundy** crafting wine – ask me about Pinot Noir!
-- 💬 Ask me about **React, React Native, Supabase, Chrome extensions, AWS, GraphQL**.
+- 🍷 Spent **25 years in Burgundy** crafting wine – ask me about Pinot Noir!
+- 💬 Ask me about **React, React Native, Supabase, Chrome extensions, SUPABASE, GraphQL**.
 
 ## 🚀 Featured Projects
 | Project | What it does | Tech |
@@ -21,7 +21,7 @@
 | **TattedMuse** | Tattoo artist profiles, search & favorites | React · GraphQL · Nhost |
 | **Community Pantry** | Share surplus food locally | React Native · Supabase |
 | **Fetlife Availability Badge** | Chrome extension showing real-time availability | JS · Node |
-| **BottleGeek** | Rate & discover craft beverages | React · Supabase |
+| **BottleGeek** | Find articles related to booze | React · Supabase |
 | **ARImageApp** | Place images in augmented reality scenes | Expo · AR |
 
 ## 🛠 Tech Stack & Tools
@@ -44,15 +44,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertsbaer&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/robertbaer" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:robert@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://robertsbaer.dev" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/robert-baer" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:robertsbaer@yahoo.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dcmademedia.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
