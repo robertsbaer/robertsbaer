@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robertsbaer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="[https://streak-stats.demolab.com?user=robertsbaer&theme=tokyonight](https://streak-stats.demolab.com/?user=robertsbaer&theme=tokyonight)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=robertsbaer&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertsbaer&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
