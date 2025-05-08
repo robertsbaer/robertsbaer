@@ -43,9 +43,9 @@
 </div>
 
 ## 💻 Top Technologies
-<p align="center">
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsbaer&layout=compact&theme=tokyonight)
-</p>
+</div>
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
