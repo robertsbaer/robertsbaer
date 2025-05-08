@@ -15,6 +15,11 @@
 - 🍷 Spent **25 years in Burgundy** crafting wine – ask me about Pinot Noir!
 - 💬 Ask me about **React, React Native, Supabase, Chrome extensions, SUPABASE, GraphQL**.
 
+## 📚 What I’m Learning
+- Programming with Three.js  
+- Level design & scripting in Unreal Engine  
+- Cyber Security
+
 ## 🚀 Featured Projects
 | Project | What it does | Tech |
 |---------|--------------|------|
@@ -37,12 +42,21 @@
   <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo" />
 </div>
 
+## 💻 Top Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsbaer&layout=compact&theme=tokyonight)
+
+
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robertsbaer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=robertsbaer&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertsbaer&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+
+[![npm](https://img.shields.io/npm/dw/your-package.svg)](...)
+[![Supabase](https://img.shields.io/badge/db-rows-1.2K-green)](...)
+
 
 ## 🤝 Connect With Me
 <p>
