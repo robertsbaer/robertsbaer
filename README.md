@@ -52,9 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robertsbaer&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
-[![npm](https://img.shields.io/npm/dw/your-package.svg)](...)
-[![Supabase](https://img.shields.io/badge/db-rows-1.2K-green)](...)
-
 
 ## 🤝 Connect With Me
 <p>
